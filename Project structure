@@ -1,0 +1,10 @@
+todo-app/
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── index.html
+├── server.js
+├── package.json
+└── database.sql
